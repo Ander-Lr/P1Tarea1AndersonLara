@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1699498496 source:c:\users\usuario\desktop\p1tarea1andersonlara\main.cpp
+	<iostream>
+	"Lib1EncabezadoLara.h"
+
+1699499475 c:\users\usuario\desktop\p1tarea1andersonlara\lib1encabezadolara.h
+	<iostream>
+	"Lib2ProgramaLara.h"
+
+1699499658 c:\users\usuario\desktop\p1tarea1andersonlara\lib2programalara.h
+	<iostream>
+
